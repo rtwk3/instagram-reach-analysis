@@ -57,12 +57,16 @@ Key features:
 
 ---
 
-## 👥 Collaborators
+## 🙋‍♂️ Contributor
 
-<div align="left">
-  <a href="https://github.com/rtwk3">
-    <img src="https://github.com/rtwk3.png" width="80" style="border-radius: 50%; margin-right: 10px;" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rtwk3" target="_blank">
+        <img src="https://github.com/rtwk3.png" width="80" height="80" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);" alt="Rtwk3"/>
+      </a>
+  </tr>
+</table>
 
 ---
 
@@ -70,4 +74,3 @@ Key features:
 
 Forked from the original [Instagram Reach Analysis by muliasujiastuti](https://www.kaggle.com/code/muliasujiastuti/instagram-reach-analysis) on Kaggle.  
 Used for academic exploration and performance comparison of regression models.
-
